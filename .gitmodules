@@ -1,0 +1,3 @@
+[submodule "lib/fpu"]
+	path = lib/fpu
+	url = https://github.com/dawsonjon/fpu.git
