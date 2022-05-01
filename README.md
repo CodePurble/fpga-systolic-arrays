@@ -6,3 +6,7 @@ be added later.
 - [ ] Matrix multiplier
 - [ ] Convolution
 - [ ] Filter banks
+
+# Running testbenches
+* Needs `iverilog`
+* Command: `iverilog -Wall -c"cmdfile" -o <outfile> <verilog_file> && vvp <outfile>`
