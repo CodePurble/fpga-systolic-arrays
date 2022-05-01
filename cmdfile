@@ -1,0 +1,3 @@
+-y ../hdl
+-y ../lib/fpu/adder
+-y ../lib/fpu/multiplier
